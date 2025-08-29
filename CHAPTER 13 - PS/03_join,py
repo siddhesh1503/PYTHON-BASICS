@@ -1,0 +1,4 @@
+a = ["Harry", "Sohan", "Sachin"]
+
+final = "-".join(a)
+print(final)
